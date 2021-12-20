@@ -1,0 +1,11 @@
+# idea folder
+.idea
+
+# .iml extension
+*.iml
+
+# out folder
+/game/out/
+
+# .class files
+*.class
